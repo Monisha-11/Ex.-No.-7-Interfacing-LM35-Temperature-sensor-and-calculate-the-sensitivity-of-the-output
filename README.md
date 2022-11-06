@@ -1,8 +1,6 @@
-# Exp No : 7
+# Exp No : 7 Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
 ## Date: 06/11/2022
-
- Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
 # Aim: 
 
